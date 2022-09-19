@@ -1,0 +1,7 @@
+1. nodejs & express & mongodb
+https://www.youtube.com/watch?v=Oe421EPjeBE
+	- Javascript Nuggets https://www.youtube.com/watch?v=80KX6aD9R7M&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ
+	- github https://github.com/john-smilga/node-express-course
+
+2. nodejs projects
+https://www.youtube.com/watch?v=qwfE7fSVaZM&t=2937s
